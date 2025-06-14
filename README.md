@@ -39,7 +39,7 @@ It provides a smooth and responsive user experience with offline support and mod
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1SO_YKoK8ljDfTtGRJB7fZtC9AUcPH3dc" width="100" alt="Image 1" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=XjtDSLHeGXn1TXqJTFsgwVvjQvs" width="100" alt="Image 2" />
+  <img src="https://drive.google.com/uc?export=view&id=1U5fa-XjtDSLHeGXn1TXqJTFsgwVvjQvs" width="100" alt="Image 2" />
 </p>
 
  - When the app launches, the splash screen appears displaying the app name with a simple animation. This screen is shown for 2 seconds before transitioning to the main interface.
@@ -81,7 +81,7 @@ It provides a smooth and responsive user experience with offline support and mod
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1a-fPCU5EfF2ODRzfwB-kyXOAAfiP_IzW" width="100" alt="Image 1" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://drive.google.com/uc?export=view&id=1a-fPCU5EfF2ODRzfwB-kyXOAAfiP_IzW" width="100" alt="Image 2" />
+  <img src="https://drive.google.com/uc?export=view&id=1RDxWXTzsUHpRAp1tuxITgbeWQatmyXMd" width="100" alt="Image 2" />
 </p>
 
 - You can add a new Customer by fill the Form and press Add.
